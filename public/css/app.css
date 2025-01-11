@@ -2,12 +2,11 @@
 @tailwind base;
 @tailwind components;
 
-
-*{
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  transition: all .4s ease-in-out;
+  transition: all 0.4s ease-in-out;
   -webkit-tap-highlight-color: transparent;
   list-style: none;
   text-decoration: none;

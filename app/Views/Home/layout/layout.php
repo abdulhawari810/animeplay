@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="/css/fonts/remixicon.css" type="text/css" media="all" />
     <title>Animeplay</title>
   </head>
-  <body class="bg-zinc-950">
+  <body class="bg-zinc-950 pt-[70px] pb-[85px]">
     
     <?= $this->rendersection("main")?>
     <?= $this->include("Home/components/navbar")?>

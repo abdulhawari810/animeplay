@@ -4,11 +4,10 @@ module.exports = {
     "app/Views/**/**/**/*.php",
     "app/Views/**/**/*.php",
     "app/Views/**/*.php",
-    "app/Views/*.php"
-    ],
+    "app/Views/*.php",
+  ],
   theme: {
     extend: {},
   },
   plugins: [],
-}
-
+};

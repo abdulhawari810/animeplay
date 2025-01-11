@@ -14,19 +14,19 @@
     <span class="text-[12px]">Home</span>
   </a>
   <a href="/Explore" class="nav-items flex items-center justify-center flex-col gap-[5px] text-slate-200">
-    <i class="ri-home-4-fill text-[25px]"></i>
+    <i class="ri-compass-fill text-[25px]"></i>
     <span class="text-[12px]">Explore</span>
   </a>
   <a href="/List" class="nav-items flex items-center justify-center flex-col gap-[5px] text-slate-200">
-    <i class="ri-home-4-fill text-[25px]"></i>
+    <i class="ri-list-check text-[25px]"></i>
     <span class="text-[12px]">My List</span>
   </a>
   <a href="/Download" class="nav-items flex items-center justify-center flex-col gap-[5px] text-slate-200">
-    <i class="ri-home-4-fill text-[25px]"></i>
+    <i class="ri-download-2-fill text-[25px]"></i>
     <span class="text-[12px]">Download</span>
   </a>
   <a href="/Settings" class="nav-items flex items-center justify-center flex-col gap-[5px] text-slate-200">
-    <i class="ri-home-4-fill text-[25px]"></i>
+    <i class="ri-settings-fill text-[25px]"></i>
     <span class="text-[12px]">Settings</span>
   </a>
 </section>
