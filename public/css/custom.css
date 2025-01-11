@@ -1,0 +1,6 @@
+.nav-items{
+  color: white;
+}
+.nav-items.active{
+  color: rgba(249,115,22,1);
+}
